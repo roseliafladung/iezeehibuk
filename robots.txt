@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eephaghoov.jonfriesen.ca/sitemap.xml
